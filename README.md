@@ -3,9 +3,8 @@
 
 # Sobre o projeto
 
-Trata-se de um portfolio desenvolvido em React com Type Script juntamente com o Vite.
-A parte de UI/UX foi desenvolvida por mim usando o Figma.
-Os projetos são adicionados de forma dinâmica a partir de um arquivo json hospedado no GitHub.
+Trata-se de um site com design responsivo que consome a api ViaCep.
+Utiliza Java script para validação dos campos, tratamento de exceções e manipulação de DOM.
 
 ## Layout
 ![Layout 1](https://raw.githubusercontent.com/Rudersonvf/assets/main/port1.png)
@@ -13,15 +12,13 @@ Os projetos são adicionados de forma dinâmica a partir de um arquivo json hosp
 # Tecnologias utilizadas
 - HTML
 - CSS
-- React
-- Type Script
 - Java Script
 
 # Como executar o projeto
 
 Clonar o repositório para a máquina local.
 
-Para executar, abra o terminal e digite o comando "yarn dev" na pasta principal do projeto
+Para executar, abra no VSCode e execute com a extenção Live Server.
 
 # Autor
 
